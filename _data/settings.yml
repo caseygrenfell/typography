@@ -1,11 +1,11 @@
 title: Casey Grenfell
 description: This site is for exploring how television uses typography
-header_text: TV TYPEFACE
+header_text: Word Watching
 footer_text: Copyright 2020 Casey Grenfell
 header_feature_image: ../uploads/pages.jpg
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
-favicon: /uploads/favicon.ico
+logo: ../uploads/bloglogo.png
+favicon: ../uploads/favicon-16x16.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
