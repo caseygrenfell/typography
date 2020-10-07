@@ -4,8 +4,8 @@ header_text: Word Watching
 footer_text: Copyright 2020 Casey Grenfell
 header_feature_image: ../uploads/pages.jpg
 bannerheight: 20vmax
-logo: ../uploads/bloglogo.png
-favicon: ../uploads/favicon-16x16.png
+logo: ../uploads/bloglogo2.png
+favicon: ../uploads/blog-favicon.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
