@@ -23,3 +23,5 @@ When designing my logo I drew inspiration from TV networks and tried to create s
 ![](../uploads/networks.jpg "Examples of the different television network logos I used for inspiration")
 
 I chose to draw inspiration from the golden age of Hollywood for my colour scheme. Rich reds, yellow ochres, and deep greens dominated the movie posters of the 1930s.
+
+![](../uploads/untitled-design.jpg)
