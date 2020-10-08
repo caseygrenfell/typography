@@ -14,9 +14,15 @@ I'm an avid Film and TV watcher and have become fascinated with examining the te
 
 Artwork, lighting, wardrobe; all of these features are expertly manipulated to influence emotion, tell the story, and stir empathy for the character. Less obvious than these, but one of the most effective and simplest devices, is the use of typography.
 
+![Image by Aleksandar Popovski via Dribble](../uploads/joketypography-min-1024x772.png)
+
 In this blog I aim to explore the application of various typographical characteristics and how effective they are in influencing viewers. I'll be taking a deeper look into why we subconsciously respond to the appearance of words more than what they're saying, and why networks make these choices.
 
+![](../uploads/bannerblogfinal.png)
+
 Word watch is a play on the phrase "bird watch", and as my television *watching* habits inspired the concept for this blog, I thought it fit!
+
+![](../uploads/logofinal.png)
 
 When designing my logo I drew inspiration from TV networks and tried to create something with a similar style. I went with a circular, badge-like background, similar to ABC's. The typography used for these logos are typically sans-serif, heavyweight and low-contrast, so I opted for the font Gilbert Bold because I also like the softness of the curved 'W'.
 
