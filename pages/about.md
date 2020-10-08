@@ -8,7 +8,7 @@ header_feature_image: /uploads/log.jpg
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 I'm an avid Film and TV watcher and have become fascinated with examining the techniques networks use to appeal to and draw in viewers. Posters and promotional material are all designed to subtly feed us so much information about the story to pique our interest before we even tune in. 
 
