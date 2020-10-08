@@ -1,20 +1,21 @@
 ---
 layout: page
 title: About
+subtitle: What Word Watching is all about
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 header_feature_image: /uploads/log.jpg
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
 show: false
 ---
+I'm an avid Film and TV watcher and have become fascinated with examining the techniques networks use to appeal to and draw in viewers. Posters and promotional material are all designed to subtly feed us so much information about the story to pique our interest before we even tune in. 
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+Artwork, lighting, wardrobe; all of these features are expertly manipulated to influence emotion, tell the story, and stir empathy for the character. Less obvious than these, but one of the most effective and simplest devices, is the use of typography.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+In this blog I aim to explore the application of various typographical characteristics and how effective they are in influencing viewers. I'll be taking a deeper look into why we subconsciously respond to the appearance of words more than what they're saying, and why networks make these choices.
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+Word watcher is a play on the phrase "bird watcher", and as my television *watching* habits inspired the concept for this blog, I thought it fit.
 
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+I designed the logo to look like a tv network logo, usually badge-like with a circle and a number or letter in it, the typography of which I found commonly seemed ribbon-like in nature.
