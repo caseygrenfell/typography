@@ -16,7 +16,7 @@ Artwork, lighting, wardrobe; all of these features are expertly manipulated to i
 
 ![Image by Aleksandar Popovski via Dribble](../uploads/joketypography-min-1024x772.png)
 
-In this blog I aim to explore the application of various typographical characteristics and how effective they are in influencing viewers. I'll be taking a deeper look into why we subconsciously respond to the appearance of words more than what they're saying, and why networks make their typographical choices.
+In this blog I aim to explore the application of various typographical characteristics and how effective they are in influencing viewers. I'll be taking a deeper look into why we subconsciously respond to the appearance of words more than what they're saying, and why networks subsequently make their typographical choices.
 
 ![](../uploads/bannerblogfinal.png "My blog banner")
 
