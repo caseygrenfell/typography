@@ -2,7 +2,7 @@
 layout: post
 title: Hit the road (Bo)Jack
 date: 2020-10-07T15:16:38.920Z
-header_feature_image: ../uploads/bojack2.jpg
+header_feature_image: ../uploads/bojack1.jpg
 comments: true
 tags: null
 ---
@@ -22,4 +22,4 @@ Notably effective as well is the replacement of the letter 'C' with a sideways h
 
 The Bojack Horseman font was custom made by designer and artist Lisa Hanawalt who won 4 Critic's Choice Awards for her artistic work on the tv series amongst others. Although there are a few loose doppelgangers out there (Prive and NorB), this particular typography is likely to retain its uniqueness because it would be difficult to replicate due to the horseshoe icon incorporated into the text, and the inclusion of the identical letters that are slightly altered upon each use. All in all, I think this use of typography is a worthy example of how a tv series can successfully promote itself by implying the story with it's title alone. On that note, I may "trot off" and re-watch an episode!
 
-![](../uploads/bojackthumbsup.png)
+![Source: IMDB](../uploads/bojackthumbsup.png "Keep word watching!")
