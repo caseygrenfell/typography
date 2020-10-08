@@ -24,7 +24,7 @@ Word watch is a play on the phrase "bird watch", and as my television *watching*
 
 ![](../uploads/logofinal.png "My blog logo")
 
-When designing my logo I drew inspiration from TV networks and tried to create something with a similar style. I went with a circular, badge-like background, similar to ABC's. The typography used for these logos are typically sans-serif, heavyweight and low-contrast, so I opted for the font 'Gilbert Bold' as it applies these features, but also because the softness of the curved 'W', similar to The CW Network's, appealed to me.
+When designing my logo I drew inspiration from TV networks and tried to create something with a similar style. I went with a circular, badge-like background, similar to ABC's. The typography used for these logos are typically sans-serif, heavyweight and low-contrast, so I opted for the font 'Gilbert Bold' as it applies these features, but also because the softness of the curved 'W', similar to The CW Network's, seems more casual and inviting.
 
 ![](../uploads/networks.jpg "Examples of the different television network logos I used for inspiration")
 
