@@ -18,8 +18,8 @@ In this blog I aim to explore the application of various typographical character
 
 Word watch is a play on the phrase "bird watch", and as my television *watching* habits inspired the concept for this blog, I thought it fit!
 
-When designing my logo, I looked to those of television networks for inspiration.  look like that of a television networks'. , usually badge-like with a circle and a number or letter in it, the typography of which I found commonly seemed ribbon-like in nature.
-
-The typography used is typically sans-serif, heavyweight and low-contrast, so I went with 
+When designing my logo I drew inspiration from TV networks and tried to create something with a similar style. I went with a circular, badge-like background, similar to ABC's. The typography used for these logos are typically sans-serif, heavyweight and low-contrast, so I opted for the font Gilbert Bold because I also like the softness of the curved 'W'.
 
 ![](../uploads/networks.jpg "Examples of the different television network logos I used for inspiration")
+
+I chose to draw inspiration from the golden age of Hollywood for my colour scheme. Rich reds, yellow ochres, and deep greens dominated the movie posters of the 1930s.
