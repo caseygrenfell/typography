@@ -3,7 +3,7 @@ description: This site is for exploring how television uses typography
 header_text: ""
 footer_text: Copyright 2020 Casey Grenfell
 header_feature_image: ../uploads/bannerblogfinal.png
-bannerheight: 40vmax
+bannerheight: 10vmax
 logo: ../uploads/logofinal.png
 favicon: ../uploads/finalfavi.png
 gridlayout: false
