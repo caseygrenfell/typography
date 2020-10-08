@@ -4,7 +4,7 @@ title: About
 subtitle: What word watching is all about
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/bannerblogfinal.png
+header_feature_image: ../uploads/bannerblognew-recovered-.png
 published: true
 tags: null
 description: null
