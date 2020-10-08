@@ -4,7 +4,7 @@ title: About
 subtitle: What Word Watching is all about
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+header_feature_image: ../uploads/bannerblog3.png
 published: true
 tags: null
 description: null
@@ -16,6 +16,8 @@ Artwork, lighting, wardrobe; all of these features are expertly manipulated to i
 
 In this blog I aim to explore the application of various typographical characteristics and how effective they are in influencing viewers. I'll be taking a deeper look into why we subconsciously respond to the appearance of words more than what they're saying, and why networks make these choices.
 
-Word watcher is a play on the phrase "bird watcher", and as my television *watching* habits inspired the concept for this blog, I thought it fit.
+Word watching is a play on the phrase "bird watching", and as my television *watching* habits inspired the concept for this blog, I thought it fit.
 
 I designed the logo to look like a tv network logo, usually badge-like with a circle and a number or letter in it, the typography of which I found commonly seemed ribbon-like in nature.
+
+![]()
