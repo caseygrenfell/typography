@@ -18,6 +18,8 @@ In this blog I aim to explore the application of various typographical character
 
 Word watch is a play on the phrase "bird watch", and as my television *watching* habits inspired the concept for this blog, I thought it fit!
 
-I designed the logo to look like a tv network logo, usually badge-like with a circle and a number or letter in it, the typography of which I found commonly seemed ribbon-like in nature.
+When designing my logo, I looked to those of television networks for inspiration.  look like that of a television networks'. , usually badge-like with a circle and a number or letter in it, the typography of which I found commonly seemed ribbon-like in nature.
 
-![]()
+The typography used is typically sans-serif, heavyweight and low-contrast, so I went with 
+
+![](../uploads/networks.jpg "Examples of the different television network logos I used for inspiration")
