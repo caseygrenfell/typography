@@ -6,7 +6,7 @@ header_feature_image: ../uploads/bojack1.jpg
 comments: true
 tags: null
 ---
-The titular love or hate character of the popular Netflix show recently hung up his hooves after the series concluded with a poignant chat on a roof, but Bojack Horseman will likely stick around in fan's minds for years to come. Not only is the washed-up actor a relatable example of disappointment and perseverance, the iconic typographical style of his name (and the title) is immediately recognisable and uniquely stylistic.
+The titular love or hate character of the popular Netflix show recently hung up his hooves after the series concluded with a poignant chat on a roof, but Bojack Horseman will likely stick around in fan's minds for years to come. Not only is the washed-up actor a relatable example of disappointment and perseverance, the iconic typographical style of the title (his name) is immediately recognisable and uniquely stylistic.
 
 I caught a glimpse of the title again on this collectible from the show and was reminded of how well the typographic design choices compliment the show and subtly communicate the nature of the character. The handwritten style and imperfect appearance of the lettering alludes to a personal insight, unhinged behaviour, and perhaps a flippant attitude towards living a dignified life. 
 
