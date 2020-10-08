@@ -18,7 +18,7 @@ The all-caps and san-serif text feels almost passive aggressive which mirrors th
 
 Notably effective as well is the replacement of the letter 'C' with a sideways horseshoe. It provides a pop of yellow to contrast the monochrome text, and is a clever way of drawing in interest. The horseshoe 'C' both communicates story (because… he's a horse) and lends the typography a uniqueness that would make it easily recognisable upon second glance. 
 
-![Source: Netflix](../uploads/5bbbcf5c567e8.image.png "The logo generally appears black or white, but occasionally white with black outline")
+![Source: Netflix](../uploads/5bbbcf5c567e8.image.png "The logo generally appears black or white, but occasionally white with black outline ")
 
 The Bojack Horseman font was custom made by designer and artist Lisa Hanawalt who won 4 Critic's Choice Awards for her artistic work on the tv series amongst others. Although there are a few loose doppelgangers out there (Prive and NorB), this particular typography is likely to retain its uniqueness because it would be difficult to replicate due to the horseshoe icon incorporated into the text, and the inclusion of the identical letters that are slightly altered upon each use. All in all, I think this use of typography is a worthy example of how a tv series can successfully promote itself by implying the story with it's title alone. On that note, I may "trot off" and re-watch an episode!
 
