@@ -16,15 +16,15 @@ Artwork, lighting, wardrobe; all of these features are expertly manipulated to i
 
 ![Image by Aleksandar Popovski via Dribble](../uploads/joketypography-min-1024x772.png)
 
-In this blog I aim to explore the application of various typographical characteristics and how effective they are in influencing viewers. I'll be taking a deeper look into why we subconsciously respond to the appearance of words more than what they're saying, and why networks make these choices.
+In this blog I aim to explore the application of various typographical characteristics and how effective they are in influencing viewers. I'll be taking a deeper look into why we subconsciously respond to the appearance of words more than what they're saying, and why networks make their typographical choices.
 
-![](../uploads/bannerblogfinal.png)
+![](../uploads/bannerblogfinal.png "My blog banner")
 
-Word watch is a play on the phrase "bird watch", and as my television *watching* habits inspired the concept for this blog, I thought it fit!
+Word watch is a play on the phrase "bird watch", and as my television *watching* habits inspired the concept for this blog, I thought it appropriate! My banner design includes a simple TV icon and I've also chosen to stylise the "o" as the lens of a camera to fit the theme.
 
-![](../uploads/logofinal.png)
+![](../uploads/logofinal.png "My blog logo")
 
-When designing my logo I drew inspiration from TV networks and tried to create something with a similar style. I went with a circular, badge-like background, similar to ABC's. The typography used for these logos are typically sans-serif, heavyweight and low-contrast, so I opted for the font Gilbert Bold because I also like the softness of the curved 'W'.
+When designing my logo I drew inspiration from TV networks and tried to create something with a similar style. I went with a circular, badge-like background, similar to ABC's. The typography used for these logos are typically sans-serif, heavyweight and low-contrast, so I opted for the font 'Gilbert Bold' as it applies these features, but also because the softness of the curved 'W', similar to The CW Network's, appealed to me.
 
 ![](../uploads/networks.jpg "Examples of the different television network logos I used for inspiration")
 
