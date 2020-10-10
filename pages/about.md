@@ -4,7 +4,7 @@ title: " About"
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/bannerblogabout3.png
+header_feature_image: ../uploads/newaboutbanner2.png
 published: true
 tags: null
 description: null
