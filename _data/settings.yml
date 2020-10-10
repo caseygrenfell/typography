@@ -6,6 +6,6 @@ header_feature_image: ../uploads/fuuuuuckthis.png
 bannerheight: 20vmax
 logo: ../uploads/logonew21.png
 favicon: ../uploads/finalfavi.png
-gridlayout: false
+gridlayout: true
 fixednavbar: false
 upzoom: true
