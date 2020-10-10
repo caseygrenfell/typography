@@ -18,9 +18,9 @@ Artwork, lighting, wardrobe; all of these features are expertly manipulated to i
 
 In this blog I aim to explore the application of various typographical characteristics and how effective they are in influencing viewers. I'll be taking a deeper look into why we subconsciously respond to the appearance of words more than what they're saying, and why networks subsequently make their typographical choices.
 
-![](../uploads/bannerblogfinal.png "My blog banner")
+![](../uploads/bannertvnewagain.png "My blog banner")
 
-Word watch is a play on the phrase "bird watch", and as my television *watching* habits inspired the concept for this blog, I thought it appropriate! My banner design includes a simple TV icon and I've also chosen to stylise the "o" as the lens of a camera to fit the theme.
+Word watch is a play on the phrase "bird watch", and as my television *watching* habits inspired the concept for this blog, I thought it appropriate! My banner design includes a picture of a retro TV setup, the font is reminiscent as a game show title, and I've stylised the "o" as the lens of a camera to fit the theme.
 
 ![](../uploads/logofinal.png "My blog logo")
 
