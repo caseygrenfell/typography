@@ -3,6 +3,7 @@ layout: post
 title: Hit the road (Bo)Jack
 date: 2020-10-07T15:16:38.920Z
 header_feature_image: ../uploads/bojack1.jpg
+caption: The typographical design of 'Bojack Horseman'
 comments: true
 tags: null
 ---
