@@ -23,3 +23,5 @@ The neon red glow of the text is also an effective tool to alert us to the genre
 The typographic voice is rigid and digital, the text has no soft edges, and the 'S' and 'R' of "stranger" are larger than the rest of the letters, despite being all caps. I think this detail emphasises the flipped underline, where the letters sit underneath the line instead of on top of it, a nod to the *Upside Down*, a fictional second dimension which is a prominent theme of the plot.
 
 ![A promotional image demonstrating the Upside Down world](../uploads/stranger-things-companion.png)
+
+There is so much that can be unpacked about the plotline of *Stranger Things* simply by analysing the title's typography. The colour, style and font have been used so effectively by the show's producers that the text advertises the series well enough on it's own. It's definitely one of my favourite examples, what do you think of the use of typography in this logo? Leave your opinions in the comments!
