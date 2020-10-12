@@ -3,6 +3,7 @@ layout: post
 title: Let's turn this Upside Down
 date: 2020-10-10T17:39:19.525Z
 header_feature_image: ../uploads/st11.jpg
+caption: Looking at the Stranger Things logo
 comments: true
 ---
 Our favourite wallet-friendly retailer Primark has a new range of *Stranger Things* merchandise out and it’s worth getting excited about! The design is visually stunning with a collage of characters rising above the red neon light of the title that so many of us have come to know and love. But why is the text the most striking part of the design?
