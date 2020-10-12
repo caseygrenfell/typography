@@ -29,3 +29,5 @@ For my banner I wanted a classic feel with a modern twist, so I combined a pictu
 ![My blog banner](../uploads/my-post-6-2.png)
 
 ![Film posters from the Golden Age of Hollywood](../uploads/untitled-design.jpg)
+
+My aims for this blog are to showcase the thought processes behind typographical design and challenge myself to become a better analyst of text. Thanks for stopping by, I hope you will find this blog a thoughtful and well-rounded exploration of film and tv typography!
