@@ -9,3 +9,7 @@ favicon: ../uploads/word-watch-11-.png
 gridlayout: true
 fixednavbar: false
 upzoom: true
+items:
+  - siteurl: /aboutme
+    name: Author
+    tab: true
