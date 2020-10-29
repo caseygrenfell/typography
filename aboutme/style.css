@@ -74,7 +74,6 @@ padding-top: 50px;
 .container {
 	display: grid;
   height: 500px;
-	width: 100%;
   margin: 15px;
   grid-template-columns: 2fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
