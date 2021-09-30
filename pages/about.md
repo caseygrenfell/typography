@@ -8,7 +8,7 @@ header_feature_image: ../uploads/my-post-4-about.png
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 I'm an avid Film and TV watcher and have become fascinated with examining the techniques networks use to appeal to and draw in viewers. Posters and promotional material are all designed to subtly feed us so much information about the story to pique our interest before we even tune in. 
 
@@ -30,4 +30,4 @@ For my banner I wanted a classic feel with a modern twist, so I combined a pictu
 
 ![Film posters from the Golden Age of Hollywood](../uploads/untitled-design.jpg)
 
-My aims for this blog are to showcase the thought processes behind typographical design and challenge myself to become a better analyst of text. Thanks for reading, I hope you will find this blog a thoughtful and well-rounded exploration of film and tv typography!
+My aims for this blog are to showcase the thought processes behind typographical design and challenge myself to become a better analyst of text. Thanks for reading, I hope you will find this blog a thoughtful and well-rounded exploration of film and TV typography!
