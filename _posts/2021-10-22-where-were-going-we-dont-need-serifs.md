@@ -23,7 +23,7 @@ Two other interesting features of the typography are:
 
 ![](../uploads/811882ba-2c09-468a-9fa4-6b2c7efd3ea0_1_201_a.jpeg "Stylistic features of other 80s posters - Source: Wikipedia")
 
-The typography for this poster is emblematic of the common stylistic features of other posters in its time. Above are examples of other popular 80s films with similar themes; comedy and action. Note the same dynamic slanted feature in both the Airplane and Indiana Jones poster, the Hot Shots poster has the same justified alignment and metallic gradient border as the Back to the Future poster. The Indiana Jones poster also shares the red to yellow gradient, and all of the above are written in all caps. So not only are we able to tell the theme of this film just by the typography, we can see the time era it came from.
+The typography for this poster is demonstrative of the common stylistic features of other posters in its time. Above are examples of other popular 80s films with similar themes; comedy and action. Note the same dynamic slanted feature in both the Airplane and Indiana Jones poster, the Hot Shots poster has the same justified alignment and metallic gradient border as the Back to the Future poster. The Indiana Jones poster also shares the red to yellow gradient, and all of the above are written in all caps. So not only are we able to tell the theme of this film just by the typography, we can see the time period it came from.
 
 The typography in this poster is well thought out and incredibly effective in giving viewers a taste of what's to come in the film they're about to watch.
 
