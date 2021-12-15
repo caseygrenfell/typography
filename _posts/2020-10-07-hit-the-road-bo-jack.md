@@ -2,7 +2,7 @@
 layout: post
 title: (Bo)Jack of all caps
 date: 2020-10-07T15:16:38.920Z
-header_feature_image: ../uploads/bojack1.jpg
+header_feature_image: ../uploads/27e0315c-4115-45bf-bc02-86fbe15e7c1a_4_5005_c.jpeg
 caption: The typographical design of 'Bojack Horseman'
 comments: true
 tags: null
