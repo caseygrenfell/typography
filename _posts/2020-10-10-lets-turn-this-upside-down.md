@@ -2,7 +2,7 @@
 layout: post
 title: Stranger font has happened than this
 date: 2020-10-10T17:39:19.525Z
-header_feature_image: ../uploads/st11.jpg
+header_feature_image: ../uploads/30103854-16dd-401f-a569-6127a5599ce7.jpeg
 caption: Looking at the Stranger Things logo
 comments: true
 ---
