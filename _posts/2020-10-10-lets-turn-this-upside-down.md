@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You could probably read this title upside down
+title: Stranger font has happened than this
 date: 2020-10-10T17:39:19.525Z
 header_feature_image: ../uploads/st11.jpg
 caption: Looking at the Stranger Things logo
