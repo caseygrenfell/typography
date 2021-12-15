@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hit the road (Bo)Jack
+title: (Bo)Jack of all caps
 date: 2020-10-07T15:16:38.920Z
 header_feature_image: ../uploads/bojack1.jpg
 caption: The typographical design of 'Bojack Horseman'
