@@ -16,6 +16,12 @@ The Jurassic Park font is also sans-serif and bold, but there is some contrast i
 
 The shape of the logo is perfectly circular, with rectangular boxes protruding either side to accomodate the text, set low in the circle to accommodate the image. This design is very reminiscent of the kind of stamp a person might get on their hand after entering a theme park. The design is simplistic and self-contained as a single element, like a stamp or a sticker, which definitely makes it feel like a business logo for something that wants to be branded for entertainment. The round element of the circle perfectly balances out the sharpness of the text giving a mixed feeling of fun and fear.
 
+![](../uploads/efff91f9-6b64-435c-a37d-ac5137e82a07.jpeg)
 
+The colour choices also lend a lot to the interpretation of the logo. The prominent red signifies danger and action while the thin yellow border adds whimsy. The black serves both as a backdrop to make the text and imagery more striking as it does to make the whole ensemble seem more ominous. The imagery of a dinosaur skeleton enforces the extinction aspect of the film, but also gives the audience the feeling that they should stay that way - if a theme park was going to have cute and cuddly dinosaurs they probably would have chosen a cartoon T-rex instead!
 
-![]()
+The colour, font, and imagery choices definitely enforce a jungle theme, something more primitive and in early stages of development. When comparing the sequel trilogy, its clear how the design elements have altered to reflect the differences in the two worlds.
+
+![2015 Jurassic World Film logo](../uploads/236f35c2-f581-4a47-a117-a242f8a2fd86.jpeg "2015 Jurassic World Film logo")
+
+The basic elements are the same, but the colour is now grey and metallic, the texture of the imagery seems like stamped metal, and the text and dinosaur appear to be protruding from the logo. It resembles a medal, and that implies a legacy that has now been improved upon. This ties in well with the newer installments of the franchise where better technology is used and the scientists themselves have "evolved" into ones who know more about what they're doing. There's an entirely differrent emotion provoked by this design even though the structure, font and imagery is the same. Both logos suit their trilogys, and while they are so similar, there are so many differences that set them apart. The only thing I can't decide is: Which theme park would I rather go to? Perhaps neither until they work out the kinks.
